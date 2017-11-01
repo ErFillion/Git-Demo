@@ -1,2 +1,2 @@
 # Git-Demo
-LEarning how to use Git and Github
+Learning how to use Git and Github
